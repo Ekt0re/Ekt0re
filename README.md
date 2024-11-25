@@ -12,7 +12,8 @@ Hello! I'm Ettore Sartori, a game developer with experience in creating interact
 ## Highlighted Projects
 
 🎮**GAMES**🎮
-- **THE FALLEN AGENT**: Top Down 2D game created with Godot Engine. [Learn more](https://hits-games.itch.io/the-fallen-agent)
+- **GHOST RUN**: Casual Game made in Godot Engine. [Learn more](https://hits-games.itch.io/mino-malo-the-game)
+- **THE FALLEN AGENT**: Top Down 2D game made in Godot Engine. [Learn more](https://hits-games.itch.io/the-fallen-agent)
 - **MINO MALO THE GAME**: Adver Game made in Godot Engine. [Learn more](https://hits-games.itch.io/mino-malo-the-game)
 
 🌐**WEBSITES**🌐
