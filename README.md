@@ -17,7 +17,7 @@ Hello! I'm Ettore Sartori, a game developer with experience in creating interact
 - **MINO MALO THE GAME**: Adver Game made in Godot Engine. [Learn more](https://hits-games.itch.io/mino-malo-the-game)
 
 🌐**WEBSITES**🌐
-- **BACKITA ASSOCIATION**: Website built with WordPress and PHP. [Learn more](https://www.associazionebakhita.it)
+- **BAKHITA ASSOCIATION**: Website built with WordPress and PHP. [Learn more](https://www.associazionebakhita.it)
 - **HITS GAMES WEBSITE**: Website developed using HTML5, CSS, and JavaScript. [Learn more](https://hitsgames.click/)
 
 📦**OTHER**📦
